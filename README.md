@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghassan</h1>
-<h3 align="center">A software engineering studen in Palestine</h3>
+<h3 align="center">A software engineering student At An Najah National University</h3>
 
 - 🔭 I’m currently interning at **OppoTrain**
 
